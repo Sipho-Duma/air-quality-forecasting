@@ -1,4 +1,4 @@
-# air-quality-forecasting
+# Air Quality Forecasting using Stacked LSTM Models
 Forecasting air pollutant levels using stacked LSTM networks and time-series modelling.
 
 
@@ -74,7 +74,18 @@ Note: Missing values are indicated with -200. Cross-sensitivities, sensor drift,
 ## Visualization & Insights
 
 - Generated time-series plots of pollutant trends.
-  
+
+## Technologies Used
+
+| Category        | Tools & Libraries               |
+| --------------- | ------------------------------- |
+| Programming     | Python                          |
+| Data Processing | pandas, numpy                   |
+| Modelling       | TensorFlow, Keras, scikit-learn |
+| Visualization   | matplotlib, seaborn, Power BI   |
+| Development     | Jupyter Notebook                |
+
+
 # Results
 
 - Achieved low RMSE and MAE values, indicating accurate pollutant forecasting.
